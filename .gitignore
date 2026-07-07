@@ -5,3 +5,12 @@
 !.gitignore
 !README.md
 !LICENSE
+!algorithms
+!build
+!gui
+!tests
+!citation.cff
+!main.py
+!README2.md
+!requirements.txt
+!stretchpro.spec

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si usas este software, por favor cítalo como se indica a continuación."
+title: "StretchPro"
+type: software
+version: "0.1.0"
+date-released: "2026-07-06"
+repository-code: "https://github.com/TU_USUARIO/stretchpro"
+license: MIT
+authors:
+  - family-names: "TU_APELLIDO"
+    given-names: "TU_NOMBRE"
+    affiliation: "TU_INSTITUCIÓN"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+preferred-citation:
+  type: article
+  title: "TÍTULO DE TU PAPER"
+  authors:
+    - family-names: "TU_APELLIDO"
+      given-names: "TU_NOMBRE"
+  journal: "NOMBRE DE LA REVISTA"
+  year: 2026
+  doi: "10.xxxx/xxxxxxx"
