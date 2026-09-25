@@ -77,16 +77,16 @@ descargar ese `.exe`, sin instalar Python ni nada más.
 
 Si usas StretchPro en un trabajo académico, por favor cítalo así:
 
-> TU_APELLIDO, TU_NOMBRE. (2026). *StretchPro* (versión 0.1.0) [Software].
+> Parrilla, Rubén. (2026). *StretchPro* (versión 0.1.0) [Software].
 > https://github.com/TU_USUARIO/stretchpro
 
 ```bibtex
 @software{stretchpro2026,
-  author  = {TU_APELLIDO, TU_NOMBRE},
+  author  = {Parrilla, Rubén},
   title   = {StretchPro},
   year    = {2026},
   version = {0.1.0},
-  url     = {https://github.com/TU_USUARIO/stretchpro}
+  url     = {https://github.com/ParrillaDigiarch/stretchpro}
 }
 ```
 
