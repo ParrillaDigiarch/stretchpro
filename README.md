@@ -16,7 +16,7 @@ pigments that are hard to differentiate in the original photograph.
 
 If you find StretchPro useful, consider supporting its development:
 
-☕ [buymeacoffee.com/rparrilla](https://buymeacoffee.com/rparrilla)
+☕ [ko-fi.com/rparrilla](https://ko-fi.com/rparrilla)
 
 
 ## Workflow
